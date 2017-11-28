@@ -1,0 +1,124 @@
+Bienvenido al juego de BLACKJACK
+
+Usted tiene 100 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    As de Diamantes    9 de TrebolTu total es: 20
+El repartidor muestra el As de Espadas
+Acierto (A) o Soporte (S)? 
+Soportes de usuario
+.Las cartas del repartidor son
+     As de Espadas
+     7 de Corazones
+El total del repartidor es 18
+Tu ganas, 20 puntos a 18.
+Usted tiene 125 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+Repartidor tiene la Rey de Corazones y la As de Espadas.
+Usuario tiene la 6 de Espadas y la 7 de Trebol.
+Usted tiene 100 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    Jota de Espadas    2 de TrebolTu total es: 12
+El repartidor muestra el Rey de Corazones
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 8 de Corazones
+Tu total ahora es 20
+
+Tus cartas son    Jota de Espadas    2 de Trebol    8 de CorazonesTu total es: 20
+El repartidor muestra el Rey de Corazones
+Acierto (A) o Soporte (S)? 
+Soportes de usuario
+.Las cartas del repartidor son
+     Rey de Corazones
+     7 de Corazones
+El total del repartidor es 17
+Tu ganas, 20 puntos a 17.
+Usted tiene 125 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    2 de Diamantes    Rey de EspadasTu total es: 12
+El repartidor muestra el Jota de Espadas
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 8 de Corazones
+Tu total ahora es 20
+
+Tus cartas son    2 de Diamantes    Rey de Espadas    8 de CorazonesTu total es: 20
+El repartidor muestra el Jota de Espadas
+Acierto (A) o Soporte (S)? 
+Soportes de usuario
+.Las cartas del repartidor son
+     Jota de Espadas
+     7 de Espadas
+El total del repartidor es 17
+Tu ganas, 20 puntos a 17.
+Usted tiene 150 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    2 de Diamantes    Reyna de EspadasTu total es: 12
+El repartidor muestra el 7 de Diamantes
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 4 de Trebol
+Tu total ahora es 16
+
+Tus cartas son    2 de Diamantes    Reyna de Espadas    4 de TrebolTu total es: 16
+El repartidor muestra el 7 de Diamantes
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 10 de Trebol
+Tu total ahora es 26Has perdido yendo por encima de 21. Pierdes.
+La otra carta del reaprtidor era la 9 de Espadas
+Usted tiene 125 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    Rey de Corazones    2 de EspadasTu total es: 12
+El repartidor muestra el 7 de Corazones
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 5 de Corazones
+Tu total ahora es 17
+
+Tus cartas son    Rey de Corazones    2 de Espadas    5 de CorazonesTu total es: 17
+El repartidor muestra el 7 de Corazones
+Acierto (A) o Soporte (S)? Aciertos del Usuario
+Tu carta es 5 de Trebol
+Tu total ahora es 22Has perdido yendo por encima de 21. Pierdes.
+La otra carta del reaprtidor era la Jota de Espadas
+Usted tiene 100 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+Repartidor tiene la 3 de Diamantes y la Rey de Corazones.
+Usuario tiene la As de Corazones y la 10 de Espadas.
+Usted tiene 150 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    Rey de Trebol    Reyna de DiamantesTu total es: 20
+El repartidor muestra el 4 de Corazones
+Acierto (A) o Soporte (S)? 
+Soportes de usuario
+.Las cartas del repartidor son
+     4 de Corazones
+     Jota de Trebol
+El repartidor acierta y obtiene Jota de Espadas
+
+Repartidor perdio por ir por encima de 21. GanasUsted tiene 200 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
